@@ -1,0 +1,5 @@
+# Godot 4 editor cache and imported resources.
+.godot/
+
+# Local export output.
+builds/
